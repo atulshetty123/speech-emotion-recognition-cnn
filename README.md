@@ -3,7 +3,7 @@ This is a project that classifies speech signals to detect the embedded emotions
 
 ##PLEASE LOGIN-IN TO KAGGLE BEFORE CLICKING THE LINK BELOW##
 
-[PROJECT LINK] --> [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/atul1234567/speech-emotion-recognition-cnn)
+[PROJECT LINK] --> [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/atul1234567/speech-emotion-recognition-cnn/edit)
 
 
 Furthermore, my SER project taught me to optimize Spectrogram Resolution (such as MFCC) to balance model accuracy with computational latency—a skill that is critical for handling the "DOM-lag" common in large-scale data visualizations. To prevent the browser from freezing when rendering thousands of FHIR resource attributes, I will implement a Canvas-based rendering engine using D3.js, inspired by the GPU-efficient bitmap processing used in CNN training. 
